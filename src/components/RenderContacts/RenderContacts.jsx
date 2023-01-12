@@ -1,4 +1,4 @@
-import css from './RenderContacts.module.css'
+// import css from './RenderContacts.module.css'
 import PropTypes from 'prop-types';
 
 const RenderContacts =({items, contactsDelete}) => {
